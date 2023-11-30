@@ -8,7 +8,7 @@ Object.is({ name: "John", age: 30 }, { name: "John", age: 30 });
 Object.is(null, undefined);
 
 10 === 20;
-10 === "10"
+10 === "10";
 3.14 !== 3.14;
 "TechUp" !== "TechUp";
 NaN === NaN;
